@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meho8live
-- 👀 I’m interested in begginer developpement
+- 👀 I’m interested in begginer development
 - 🌱 I’m currently learning HTML CSS and JS
 - 💞️ I’m looking to collaborate on different project that relate to coding
 - 📫 You can reach me at lucaspatrone@icloud.com
